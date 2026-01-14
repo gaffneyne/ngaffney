@@ -1,0 +1,8 @@
+{
+  "title": "ngaffney.net",
+  "url": "https://ngaffney.net",
+  "description": "Photographs by Nicholas Gaffney.",
+  "feed": {
+    "limit": 20
+  }
+}

@@ -1,0 +1,44 @@
+---
+pagination:
+  data: collections.months
+  size: 1
+  alias: archive
+permalink: "/recent/{{ archive.year }}/{{ archive.month }}/index.html"
+eleventyComputed:
+  title: "{{ archive.label }}"
+---
+
+{% extends "layout.njk" %}
+
+{% block content %}
+
+<h3 class="title">{{ title }}</h3>
+<ul id="gallery"">
+  {% for post in collections.flatPosts %}
+    {% if post.data.date | date("yyyy") == archive.year and post.data.date | date("MM") == archive.month %}
+    <li>
+        {{ post.content | safe }}
+        <a href="{{ post.url }}">→</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+
+<hr>
+  <h2>Archives</h2>
+
+  {% set years = collections.years | sort(attribute='year') | reverse %}
+  {% for y in years %}
+    <p>
+      <strong>{{ y.year }}:</strong>
+      {% for m in collections.months %}
+        {% if m.year == y.year %}
+          <a href="/recent/{{ m.year }}/{{ m.month }}/">
+            {{ m.month | date('MMM') }}
+          </a>{% if not loop.last %} · {% endif %}
+        {% endif %}
+      {% endfor %}
+    </p>
+  {% endfor %}
+  {% endblock %}

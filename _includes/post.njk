@@ -1,0 +1,28 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+<article class="post">
+
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+
+
+<hr>
+  <h2>Archives</h2>
+
+  {% set years = collections.years | sort(attribute='year') | reverse %}
+  {% for y in years %}
+    <p>
+      <strong>{{ y.year }}:</strong>
+      {% for m in collections.months %}
+        {% if m.year == y.year %}
+          <a href="/recent/{{ m.year }}/{{ m.month }}/">
+            {{ m.month | date('MMM') }}
+          </a>{% if not loop.last %} · {% endif %}
+        {% endif %}
+      {% endfor %}
+    </p>
+  {% endfor %}
+</article>
+{% endblock %}
