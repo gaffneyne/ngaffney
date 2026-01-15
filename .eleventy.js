@@ -20,7 +20,15 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("favicon");
-  
+   eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("favicon");
+  eleventyConfig.addPassthroughCopy("professional");
+  eleventyConfig.addPassthroughCopy("about");
+  eleventyConfig.addPassthroughCopy("projects");
+  eleventyConfig.addPassthroughCopy("404");
+  eleventyConfig.addPassthroughCopy("linkinbio");
+  eleventyConfig.addPassthroughCopy("about");
   eleventyConfig.addPlugin(pluginRss);
   
 
