@@ -17,7 +17,12 @@ function dashify(name) {
 
 module.exports = function (eleventyConfig) {
   // Plugins
+    eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("favicon");
+  
   eleventyConfig.addPlugin(pluginRss);
+  
 
   // Filters
   eleventyConfig.addFilter("date", (value, format = "yyyy-MM-dd") => {
