@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["lost cat"]
 ---
 
-<img src="https://ngaffney.net/images/recent/_MG_0586.jpg" alt="Ferns and Steps" />
+<img src="/images/recent/_MG_0586.jpg" alt="Ferns and Steps" />

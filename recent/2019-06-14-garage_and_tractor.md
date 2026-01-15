@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["lost cat"]
 ---
 
-<img src="https://ngaffney.net/images/recent/_MG_0563.jpg" alt="Garage and Tractor" />
+<img src="/images/recent/_MG_0563.jpg" alt="Garage and Tractor" />

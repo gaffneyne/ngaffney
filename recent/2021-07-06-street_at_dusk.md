@@ -4,4 +4,4 @@ date: "2021-07-06"
 layout: "post.njk"
 ---
 
-<img srcset="https://ngaffney.net/images/recent/07-04-21_9398-1000px.jpg 1x, https://ngaffney.net/images/recent/07-04-21_9398-2000px.jpg 2x" src="https://ngaffney.net/images/recent/07-04-21_9398-1000px.jpg" alt="Street at Dusk"/>
+<img srcset="/images/recent/07-04-21_9398-1000px.jpg 1x, /images/recent/07-04-21_9398-2000px.jpg 2x" src="/images/recent/07-04-21_9398-1000px.jpg" alt="Street at Dusk"/>
