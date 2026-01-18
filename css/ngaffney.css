@@ -28,7 +28,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 1.5;
         background-color: rgba(255,255,255,1);
 }
 ol, ul {
@@ -63,8 +63,9 @@ html {
 @media screen 
 and (max-device-width: 667px) {
 	body {
-		font-size: 13px;
+		font-size: 15px;
 		font-family: "Charter","Georgia", serif;
+		line-height: 1.5;
 	}
 	div#wrapper {
 		margin: 0 auto 0 auto;	
@@ -72,7 +73,7 @@ and (max-device-width: 667px) {
 	}
 	div#header {
 		margin: 0;
-		padding: 0 0 .1em .5em;
+		padding: 0 0 1em .5em;
 	}
 	div#footer {
 		margin: 0;
@@ -87,19 +88,19 @@ h2 {
 	p.statement, p.about, ul#cv {
 		font-size: 150%;
 		width: 100%;
-		line-height: 1.3em;
+		line-height: 1.6em;
 		margin: 0 0 1em 0;
 		padding: 0 1em 0 1em;
-		letter-spacing: .02em;
+		letter-spacing: .01em;
 	}
 	p.image_info, p.caption {
 		font-size: 150%;
                 font-style: italic;
 		width: 100%;
-		line-height: 1.5em;
+		line-height: 1.6em;
 		margin: 0 0 10px 0;
 		padding: .5em;
-		letter-spacing: .05em;
+		letter-spacing: .03em;
               
 		}
 	p.statement.emphasis, p.image_info em {
@@ -108,6 +109,7 @@ h2 {
          p.permalink {
            margin: 0;
            padding: 0 0 0 12px;
+           font-size: 110%;
       
         }
 
@@ -116,7 +118,7 @@ ul#gallery li p, div#gallery p {
 		padding: 0 1em 0 0;
 		text-align: left;
 		font-size: 100%;
-		line-height: 1.5em;
+		line-height: 1.6em;
                 width: 70%;
 	}
 	ul#gallery li p.portfoliotitle, ul#gallery li p.projectstitle  {
@@ -124,7 +126,7 @@ ul#gallery li p, div#gallery p {
 		padding: 0 1em 0 0;
 		text-align: right;
 		font-size: 75%;
-		line-height: 1.5em;
+		line-height: 1.6em;
 	}	
 
 	ul#portfolio_list li, ul#projects_list li {
@@ -140,7 +142,7 @@ ul#gallery li p, div#gallery p {
 	font-size: 125%;
 }
 	ul#gallery li, div#gallery {
-		margin: 0 0 8em 0;
+		margin: 0 0 9em 0;
                 padding: 0;
 	}
 	ul#gallery li img, div#gallery img {
@@ -170,7 +172,7 @@ div#front {
 	dl#archives {
 		text-align: left;
 		font-size: 110%;
-		line-height: 150%;
+		line-height: 1.6em;
                 margin: 0 1em 0 1em;
                 padding: 0;
 	}
@@ -184,7 +186,7 @@ div#front {
         font-size: 150%;
         margin: 0 .5em 1em .5em;
         padding: 0;
-        line-height: 1.25em;
+        line-height: 1.4em;
         }
 }
 
@@ -192,8 +194,9 @@ div#front {
 @media screen 
 and (min-device-width: 668px) {
 	body {
-		font-size: 16px;
+		font-size: 17px;
 		font-family: "Charter","Georgia", serif;
+		line-height: 1.6;
 	}
 	div#wrapper {
 		max-width: 1064px;
@@ -202,7 +205,7 @@ and (min-device-width: 668px) {
 	}
 	div#header {
 		margin: 0;
-		padding: 0 0 .1em 0;
+		padding: 0 0 1em 0;
 	}
 	div#footer {
 		margin: 0;
@@ -216,19 +219,19 @@ h2 {
 	p.statement, p.about, ul#cv {
 		font-size: 120%;
 		width: 75%;
-		line-height: 1.5em;
+		line-height: 1.6em;
 		margin: 0 0 1em 0;
 		padding: 0 .5em 0 .5em;
-		letter-spacing: .02em;
+		letter-spacing: .01em;
 	}
 	p.image_info, p.caption {
 		font-size: 120%;
                 font-style: italic;
 		width: 100%;
-		line-height: 1.3em;
+		line-height: 1.5em;
 		margin: 0 0 .5em 0;
 		padding: .5em;
-		letter-spacing: .05em;
+		letter-spacing: .03em;
              
 		}
 	p.statement.emphasis, p.image_info em {
@@ -241,7 +244,7 @@ ul#gallery li p, div#gallery p  {
 		padding: 0 1em 0 0;
 		text-align: left;
 		font-size: 100%;
-		line-height: 1.5em;
+		line-height: 1.6em;
                 width: 70%;
 	}
 	ul#gallery li p.portfoliotitle, ul#gallery li p.projectstitle {
@@ -249,7 +252,7 @@ ul#gallery li p, div#gallery p  {
 		padding: 0 1em 0 0;
 		text-align: right;
 		font-size: 75%;
-		line-height: 1.5em;
+		line-height: 1.6em;
 	}
 	ul#portfolio_list li, ul#projects_list li  {
 		padding: 0;
@@ -265,7 +268,7 @@ ul#gallery li p, div#gallery p  {
 	font-size: 100%;
         }
 	ul#gallery li, div#gallery {
-		margin: 0 0 5em 0;
+		margin: 0 0 6em 0;
                 padding: 0;
 	}
 	ul#gallery li img, div#gallery img {
@@ -301,7 +304,7 @@ div#front {
         dl#archives {
 		text-align: left;
 		font-size: 120%;
-		line-height: 150%;
+		line-height: 1.6em;
 	}
 	h6 {
 		font-size: 150%;
@@ -334,7 +337,7 @@ h2.links {
 
 p.links {
        font-size: 150%;
-       line-height: 1.25em;
+       line-height: 1.4em;
         }
 
 br.clear {
@@ -372,7 +375,7 @@ ul#portfolio_list li h3, ul#projects_list li h3 {
 	background-color: rgba(255,255,255,.8);
 	width: 100%;
 	padding: .25em;
-        line-height: 1.25em;
+        line-height: 1.4em;
 }
 img.portfolio_image, img.projects_image {
 	position: absolute;
@@ -410,6 +413,7 @@ h4 {
         font-weight: normal;
         margin: 0 0 1em 0;
         padding: 0;
+        line-height: 1.5em;
 }
 
 h5.image_info {
@@ -419,6 +423,7 @@ letter-spacing: .1em;
 color: black;
 margin: 0;
 padding: .5em;
+line-height: 1.5em;
 }
 
 h5.image_info a {
@@ -480,7 +485,7 @@ h3.title {
 	font-size: 150%;
 	padding: .3em 0 .3em .3em;
 	margin: 0 0 .5em 0;
-	line-height: 1.3em;
+	line-height: 1.5em;
 	background-color: rgba(128,128,128,.1);
 	color: rgba(0,0,0,1);
 	width: 100%;
@@ -541,7 +546,7 @@ dl#archives dd:nth-child(n+3):before {
 	content: " \00B7  ";
 }
 dd p, p.nodate {
-	line-height: 1.3em;
+	line-height: 1.5em;
 	padding: 0;
 	margin: 0 0 .5em 0;
 }
