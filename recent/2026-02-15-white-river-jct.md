@@ -1,5 +1,5 @@
 ---
-title: Hall Art Foundation Terrance Koh
+title: White River Jct
 date: 2026-02-15
 layout: post.njk
 ---
