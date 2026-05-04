@@ -69,7 +69,7 @@ and (max-device-width: 667px) {
 	}
 	div#wrapper {
 		margin: 0 auto 0 auto;	
-		padding: 2em 0 2em 0;
+		padding: 1em 0 2em 0;
 	}
 	div#header {
 		margin: 0;
@@ -201,7 +201,7 @@ and (min-device-width: 668px) {
 	div#wrapper {
 		max-width: 1064px;
 		margin: 0 auto 0 auto;	
-		padding: 2em;
+		padding: 1 em 2em 2em 2em;
 	}
 	div#header {
 		margin: 0;
@@ -392,7 +392,7 @@ ul#portfolio_list li a:link h3, ul#portfolio_list ul li a:visited h3, ul#project
 }
 div#header h1, div#header h2 {
 	margin: 0;
-	padding: 0 0 .25em 0;
+	padding: 0;
 }
 div#header h2 ul li {
 	display: inline-block;
