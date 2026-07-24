@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["backyard,fireworks,flower,manno,night"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2006/05/05-28-06_002.jpg" />
+<img src="/images/vfb/archives/images/2006/05/05-28-06_002.jpg" />

@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["chair,dining room,kitchen,light"]
 ---
 
-<img alt="20090207-P1020068-1.jpg" src="http://www.viewfrombaxter.net/images/2009/07/20090207-P1020068-1.jpg" />
+<img alt="20090207-P1020068-1.jpg" src="/images/vfb/images/2009/07/20090207-P1020068-1.jpg" />

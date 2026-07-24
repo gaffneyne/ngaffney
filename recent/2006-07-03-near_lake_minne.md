@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["boy,lake minnewaska,stream,woods"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2006/07/07-03-06_001.jpg" />
+<img src="/images/vfb/archives/images/2006/07/07-03-06_001.jpg" />

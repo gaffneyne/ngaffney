@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["car,parking lot,schenectady ny,sky"]
 ---
 
-<img alt="20070928-_MG_6028.jpg" src="http://www.viewfrombaxter.net/images/2007/10/20070928-_MG_6028.jpg" width="750" height="500" />
+<img alt="20070928-_MG_6028.jpg" src="/images/vfb/images/2007/10/20070928-_MG_6028.jpg" width="750" height="500" />

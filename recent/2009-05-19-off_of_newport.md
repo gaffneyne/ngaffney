@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["newport ri,ocean,rock"]
 ---
 
-<img alt="20081129-P1000621.jpg" src="http://www.viewfrombaxter.net/images/2009/05/20081129-P1000621.jpg"   />
+<img alt="20081129-P1000621.jpg" src="/images/vfb/images/2009/05/20081129-P1000621.jpg"   />

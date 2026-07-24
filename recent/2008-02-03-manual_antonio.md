@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["ant eater,costa rica,fake animal,manual antonio,sign"]
 ---
 
-<img alt="20080103-P1010363.jpg" src="http://www.viewfrombaxter.net/images/2008/02/20080103-P1010363.jpg" class="mt-image-left" />
+<img alt="20080103-P1010363.jpg" src="/images/vfb/images/2008/02/20080103-P1010363.jpg" class="mt-image-left" />

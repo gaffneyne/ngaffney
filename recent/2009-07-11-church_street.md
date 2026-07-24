@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["church street,grass,lebanon nh,street,tree"]
 ---
 
-<img alt="20090522-P1030013-1.jpg" src="http://www.viewfrombaxter.net/images/2009/07/20090522-P1030013-1.jpg" />
+<img alt="20090522-P1030013-1.jpg" src="/images/vfb/images/2009/07/20090522-P1030013-1.jpg" />

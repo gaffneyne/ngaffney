@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["kangaroo,prospect park zoo,zoo"]
 ---
 
-<img src="http://www.viewfrombaxter.net/images/2007/04/20070302-_MG_1484.jpg"  alt="20070302-_MG_1484.jpg" title="kangaroo" />
+<img src="/images/vfb/images/2007/04/20070302-_MG_1484.jpg"  alt="20070302-_MG_1484.jpg" title="kangaroo" />

@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["barbed wire,costa rica,dog,dominical,grass"]
 ---
 
-<img alt="20080102-P1010255.jpg" src="http://www.viewfrombaxter.net/images/2008/02/20080102-P1010255.jpg" class="mt-image-left" />
+<img alt="20080102-P1010255.jpg" src="/images/vfb/images/2008/02/20080102-P1010255.jpg" class="mt-image-left" />

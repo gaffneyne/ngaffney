@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["brick,building,rec center,shadow"]
 ---
 
-<img src="http://viewfrombaxter.net/images/2013/04-30-13_2276.jpg" alt="Side of the Rec Center" />
+<img src="/images/vfb/images/2013/04-30-13_2276.jpg" alt="Side of the Rec Center" />

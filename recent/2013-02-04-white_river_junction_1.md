@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["building,white,winter,wrj"]
 ---
 
-<img src="http://viewfrombaxter.net/images/2013/01-04-13_0050.jpg" alt="White River Junction Photograph" />
+<img src="/images/vfb/images/2013/01-04-13_0050.jpg" alt="White River Junction Photograph" />

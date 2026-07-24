@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["building,shadow"]
 ---
 
-<img src="http://viewfrombaxter.net/images/2013/02-03-13_0226.jpg" alt="building and shadow" />
+<img src="/images/vfb/images/2013/02-03-13_0226.jpg" alt="building and shadow" />

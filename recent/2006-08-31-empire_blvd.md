@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["brooklyn,empire blvd,garage,sign"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2006/08/25/08-31-06_001.jpg" />
+<img src="/images/vfb/archives/images/2006/08/25/08-31-06_001.jpg" />

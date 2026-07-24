@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["emma,porter,sky,windy"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2006/07/07-02-06_001.jpg" />
+<img src="/images/vfb/archives/images/2006/07/07-02-06_001.jpg" />

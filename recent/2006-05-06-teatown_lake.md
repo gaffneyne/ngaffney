@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["dam,sky,teatown lake preserve,water"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2006/05/05-06-06_001.jpg" />
+<img src="/images/vfb/archives/images/2006/05/05-06-06_001.jpg" />

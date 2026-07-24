@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["new jersey,string,tree"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2005/08/04/08-04-05_001.jpg">
+<img src="/images/vfb/archives/images/2005/08/04/08-04-05_001.jpg">

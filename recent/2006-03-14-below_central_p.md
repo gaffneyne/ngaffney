@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["new york city,street,taxi"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2006/03/14/03-14-06_001.jpg" border="0" />
+<img src="/images/vfb/archives/images/2006/03/14/03-14-06_001.jpg" border="0" />

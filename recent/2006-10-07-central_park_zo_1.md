@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["bird,central park zoo,tree,zoo"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2006/10/10-07-06_002.jpg" />
+<img src="/images/vfb/archives/images/2006/10/10-07-06_002.jpg" />

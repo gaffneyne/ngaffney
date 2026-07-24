@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["jenny,kitchen,mellon baller"]
 ---
 
-<img src="http://www.viewfrombaxter.net/archives/images/2005/07/07/07-07-05_001.jpg">
+<img src="/images/vfb/archives/images/2005/07/07/07-07-05_001.jpg">

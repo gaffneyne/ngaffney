@@ -5,4 +5,4 @@ layout: "post.njk"
 tags: ["cactus,prospect park zoo,sand,tortoise,zoo"]
 ---
 
-<img src="http://www.viewfrombaxter.net/images/2007/06/20070420-_MG_3596.jpg"  alt="20070420-_MG_3596.jpg" title="tortoise" />
+<img src="/images/vfb/images/2007/06/20070420-_MG_3596.jpg"  alt="20070420-_MG_3596.jpg" title="tortoise" />
